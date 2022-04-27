@@ -24,7 +24,7 @@ Term: Spring 2022
 	+ All team members attended all the meetings and designed the study together.
 	+ Lichun He and Shiqi Tang studied, implemented and evaluated the LSTM model with Inception V3 pre-trained model.
 	+ Shanyue Zeng, Huiying Wang and Jiuru Wang studied, implemented and evaluated the LSTM model with Inception V2.
-	+ Shiqi Tang implemented and evaluated the model which extracts features from images using VGG-16.
+	+ Shiqi Tang and Lichun He implemented and evaluated the model which extracts features from images using VGG-16.
 	+ All team members helped in preparing the presentation slides.
 	+ Shiqi Tang presented the project.
 	+ All team members approve our work presented in this GitHub repository including this contributions statement. 
