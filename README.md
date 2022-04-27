@@ -3,7 +3,7 @@
 ### [Project Description](doc/project5_desc.md)
 
 ![screenshot](figs/fig.png)
-[Credit:](https://towardsdatascience.com/image-captioning-in-deep-learning-9cd23fb4d8d2)
+Credit:[Towardsdatascience](https://towardsdatascience.com/image-captioning-in-deep-learning-9cd23fb4d8d2)
 
 Term: Spring 2022
 
